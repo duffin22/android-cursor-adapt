@@ -1,1 +1,0 @@
-# android-cursor-adapt
